@@ -32,7 +32,7 @@ Ce projet est documenté en portugais, anglais et français afin d’assurer l�
 ```hcl
 # Configuração do Provider AWS:
 provider "aws" {
-  region = "us-east-1"
+  region = "us-east-2"
 }
 
 # Declaração e provisionamento de uma instância EC2:
@@ -120,7 +120,7 @@ Ce projet est documenté en portugais, anglais et français afin d’assurer l�
 ```hcl
 # AWS Provider Configuration:
 provider "aws" {
-  region = "us-east-1"
+  region = "us-east-2"
 }
 
 # Declaration and provisioning of an EC2 instance:
@@ -208,7 +208,7 @@ Ce projet est documenté en portugais, anglais et français afin d’assurer l�
 ```hcl
 # Configuration du Provider AWS :
 provider "aws" {
-  region = "us-east-1"
+  region = "us-east-2"
 }
 
 # Déclaration et provisionnement d'une instance EC2 :
